@@ -94,6 +94,11 @@ A partir de estos requisitos, diseñé más de **35 casos de prueba manuales** q
 
 📎 [Descargar archivo Excel de casos de prueba](https://github.com/aespinozacalix/QA-Transition-UrbanGrocers/blob/main/Proyecto%20_Casos_de_prueba_Urban.xlsx)
 
+### 👀 Vista previa del Excel
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aespinozacalix/QA-Transition-UrbanGrocers/main/Pantalla_proyecto_excel_urban.png" width="700" alt="Vista previa del Excel de pruebas">
+</p>
+
 ---
 ## 🧭 Mi historia como QA Engineer
 
