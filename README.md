@@ -92,7 +92,7 @@ A partir de estos requisitos, diseñé más de **35 casos de prueba manuales** q
 - Verificación de respuestas HTTP y estructura JSON
 - Estado (✅ Passed / ❌ Failed)
 
-📎 [Descargar archivo Excel de casos de prueba](https://github.com/aespinozacalix/QA-Transition-UrbanGrocers/raw/main/Proyecto_Casos_de_prueba_Urban.xlsx)
+📎 [Descargar archivo Excel de casos de prueba](https://github.com/aespinozacalix/QA-Transition-UrbanGrocers/blob/main/Proyecto%20_Casos_de_prueba_Urban.xlsx)
 
 ---
 ## 🧭 Mi historia como QA Engineer
